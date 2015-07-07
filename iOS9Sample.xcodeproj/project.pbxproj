@@ -417,10 +417,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jackson Taylor (24KCX37L4G)";
 				INFOPLIST_FILE = iOS9Sample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.willowtreeapps.iOS9Sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0d807be8-a0f6-4330-b469-c0de60ed8af1";
 			};
 			name = Debug;
 		};
@@ -428,10 +430,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jackson Taylor (24KCX37L4G)";
 				INFOPLIST_FILE = iOS9Sample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.willowtreeapps.iOS9Sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0d807be8-a0f6-4330-b469-c0de60ed8af1";
 			};
 			name = Release;
 		};
@@ -502,6 +506,7 @@
 				D836D3531B3D886B00DD2543 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D836D3541B3D886B00DD2543 /* Build configuration list for PBXNativeTarget "iOS9SampleTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +515,7 @@
 				D836D3561B3D886B00DD2543 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D836D3571B3D886B00DD2543 /* Build configuration list for PBXNativeTarget "iOS9SampleUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +524,7 @@
 				D836D3591B3D886B00DD2543 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
