@@ -6,3 +6,4 @@ This project is also used for Xcode Server 7 Beta Testing.
 
 # Simple UI Testing
 Just has the project setup to include it.
+
