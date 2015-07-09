@@ -3,3 +3,5 @@ A very basic iOS 9 Project that uses verification for login locally and that's a
 
 # Also Used For
 This project is also used for Xcode Server 7 Beta Testing.
+
+# Simple UI Testing
