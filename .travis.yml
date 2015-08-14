@@ -1,0 +1,6 @@
+language: objective-c
+xcode_project: iOS9Sample.xcodeproj
+xcode_scheme: iOS9Sample
+xcode_sdk: iphonesimulator8.1
+notifications:
+  email: false
